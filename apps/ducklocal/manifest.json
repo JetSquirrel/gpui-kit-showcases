@@ -2,10 +2,12 @@
   "id": "ducklocal",
   "name": "DuckLocal",
   "author": "JetSquirrel",
-  "description": "A local-first workspace for querying CSV, Parquet, JSON and Excel files with DuckDB SQL. Drop files in and query them where they are, with no server and no upload: a SQL editor, charts, dashboards declared as plain text, and a headless CLI for AI agents.",
+  "description": "A native, local-first workspace for CSV, Parquet, JSON, Excel and DuckDB files. Point it at your data and query it with DuckDB SQL, with no server and no upload: a SQL editor, charts, dashboards as plain text, and a headless JSON CLI that lets AI agents work alongside you.",
   "category": "dev",
   "platforms": [
-    "macOS"
+    "macOS",
+    "Windows",
+    "Linux"
   ],
   "website": "https://ducklocal.app/",
   "source": "https://github.com/JetSquirrel/DuckLocal",
