@@ -1,0 +1,12 @@
+{
+  "id": "barsql",
+  "name": "BarSQL",
+  "author": "Bare7a",
+  "description": "A local-first desktop SQL client for PostgreSQL, MySQL/MariaDB, SQL Server, ClickHouse, Turso and SQLite: a schema-aware SQL editor, streaming results with grid editing, query plans, ER diagrams and schema compare, with no account and no telemetry.",
+  "category": "dev",
+  "platforms": ["macOS", "Windows", "Linux"],
+  "website": "https://barsql.bare7a.eu",
+  "source": "https://github.com/Bare7a/BarSQL",
+  "publishedAt": "2026-11-08T00:00:00Z",
+  "previews": ["preview0.png", "preview1.png", "preview2.png", "preview3.png", "preview4.png"]
+}
