@@ -4,10 +4,16 @@
   "author": "MareDevi",
   "description": "A local-first desktop editor for Astro content collections. Edit Markdown and MDX, manage schema-aware frontmatter, and preview your site with guarded saves, conflict detection, and local recovery.",
   "category": "dev",
-  "platforms": ["Linux"],
+  "platforms": [
+    "Linux"
+  ],
   "website": null,
   "source": "https://github.com/MareDevi/Astrolith",
   "building": true,
   "publishedAt": "2026-11-09T11:43:02Z",
-  "previews": ["preview0.png"]
+  "previews": [
+    "preview0.png"
+  ],
+  "stars": 0,
+  "starsUpdatedAt": "2026-11-09T13:07:42.009Z"
 }
