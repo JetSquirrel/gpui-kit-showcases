@@ -4,10 +4,17 @@
   "author": "Vinh Nguyen",
   "description": "A terminal-first coding agent for your repository with a native macOS app built on GPUI Kit. Explore, plan, edit, and verify with your model of choice, backed by auditable tool calls, sandboxed commands, and resumable sessions.",
   "category": "dev",
-  "platforms": ["macOS"],
+  "platforms": [
+    "macOS"
+  ],
   "website": null,
   "source": "https://github.com/vinhnx/VTCode",
   "building": true,
   "publishedAt": "2026-11-09T00:00:00Z",
-  "previews": ["preview0.png", "preview1.png"]
+  "previews": [
+    "preview0.png",
+    "preview1.png"
+  ],
+  "stars": 903,
+  "starsUpdatedAt": "2026-11-09T03:34:07.837Z"
 }
